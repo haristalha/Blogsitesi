@@ -4,7 +4,7 @@ Bandırma Onyedi Eylül Üniversitesi Bigisayar Programcıığı VE Veri Tabanı
 
 Blog Web Sitesi Yenileme Projesi
 
-Bu proje, felsefecin adlı web sitesinin CodeIgniter altyapısına geçirilmesini ve modern bir tasarımla güncellenmesini hedeflemektedir.
+Bu proje, **FELSEFECİN** adlı web sitesinin CodeIgniter altyapısına geçirilmesini ve modern bir tasarımla güncellenmesini hedeflemektedir.
 
 📌 Proje Amacı
 
